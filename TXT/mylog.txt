@@ -6,3 +6,5 @@ ZCZC W00 30 L01 SCELE/Discord related.
 ZCZC W00 10 L03 GitHub related.
 ZCZC W00 15 L41 TXT/mylog.txt related.
 ZCZC W00 40 L09 Weekly Assignments.
+ZCZC W00 15 L04 GitHub Pages related
+ZCZC W00 80 L15 Read materials
