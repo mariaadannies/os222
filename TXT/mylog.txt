@@ -24,3 +24,4 @@ ZCZC W01 50 L62 Install Virtual Debian Guest.
 ZCZC W01 10 L64 Helping a friend.
 ZCZC W01 120 L70 Studying for other courses.
 ZCZC W01 10 L41 TXT/mylog.txt related.
+ZCZC W01 50 L05 Quiz related including studying.
