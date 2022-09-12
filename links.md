@@ -1,5 +1,5 @@
 ---
-permalink: LINKS/
+permalink: LINKS/.
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
@@ -7,7 +7,7 @@ permalink: LINKS/
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
+[TARBALL](SandBox/mariaadannies.tar.xz) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
