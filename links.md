@@ -1,6 +1,6 @@
 ---
 title: Helpful Links
-permalink: LINKS/.
+permalink: LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
@@ -16,7 +16,7 @@ permalink: LINKS/.
 # LINKS
 
 1. [test](https://google.com)<br>
-lorem ipsum bla bla bla...
+lorem ipsum hehe
 
 
 <br>
