@@ -1,1 +1,1 @@
--- [LOG](TXT/mylog.txt) -- [LINKS](LINKS/) -- [GitHub Repository](https://github.com/mariaadannies/os222) --
+-- [LOG](TXT/mylog.txt) -- [LINKS](LINKS/.) -- [GitHub Repository](https://github.com/mariaadannies/os222) --
