@@ -1,1 +1,1 @@
-| [LOG](TXT/mylog.txt) | [LINKS](LINKS/) | [GitHub Repository](https://github.com/mariaadannies/os222)
+o [LOG](TXT/mylog.txt) o [LINKS](LINKS/) o [GitHub Repository](https://github.com/mariaadannies/os222)
