@@ -15,9 +15,17 @@ permalink: LINKS/
 
 # LINKS
 
-1. [test](https://google.com)<br>
-lorem ipsum hehe
+1. [OS](https://os.vlsm.org/)<br>
+Kumpulan resource kelas OS.
 
+2. [OPERATING SYSTEM EXPLAINED](https://www.guru99.com/operating-system-tutorial.html)<br>
+Apa itu operating system?
+
+3. [REGEX](https://www.sitepoint.com/learn-regex/)<br>
+Apa itu operating system?
+
+4. [GREP, SED, AWK](https://www.baeldung.com/linux/grep-sed-awk-differences/)<br>
+Perbedaan grep, sed, dan awk.
 
 <br>
 <hr>
