@@ -7,7 +7,7 @@
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG](https://github.com/mariaadannies/os222/TXT/mylog.txt) ---
 [TARBALL](SandBox/mariaadannies.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/mariaadannies/os222)
 <br>
 Hellooo, I am {{site.author}}
 <br>
