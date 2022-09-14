@@ -6,9 +6,10 @@
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [LOG](https://github.com/mariaadannies/os222/TXT/mylog.txt) ---
-[TARBALL](SandBox/mariaadannies.tar.xz) ---
+[TARBALL]((https://os.vlsm.org/Log/mariaadannies.tar.bz2.txt)) ---
 [GITHUB](https://github.com/mariaadannies/os222)
 <br>
+<hr>
 Hellooo, I am {{site.author}}
 <br>
 <hr>
