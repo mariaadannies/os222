@@ -1,6 +1,6 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size;"By {{site.author}}[mariaadannies](https://github.com/mariaadannies/os222)>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{site.author}}[mariaadannies](https://github.com/mariaadannies/os222)</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
@@ -10,5 +10,8 @@
 [GITHUB]({{ site.githublink }})
 <br>
 Hellooo, I am {{site.author}}
+<br>
 <hr>
-
+&copy; {{site.copyright}} == {{site.author}}[mariaadannies](https://github.com/mariaadannies/os222) --- Version: {{site.version))
+<hr>
+<br>
