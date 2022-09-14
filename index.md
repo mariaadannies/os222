@@ -1,20 +1,14 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}[mnabielap](https://github.com/mnabielap/os222)</span>
+<span style="color:red; font-weight:bold; font-size;"By {{site.author}}[mariaadannies](https://github.com/mariaadannies/os222)>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG](https://mariaadannies.github.io/os222/TXT/mylog.txt) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
 [TARBALL](SandBox/mariaadannies.tar.xz) ---
-[GITHUB](https://github.com/mariaadannies/os222)
+[GITHUB]({{ site.githublink }})
 <br>
+Hellooo, I am {{site.author}}
 <hr>
-This is {{ site.title }} and I am {{ site.author }}[mnabielap](https://github.com/mnabielap/os222).
-<br><br>
-This is the way!
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }}[mnabielap](https://github.com/mnabielap/os222) --- Version: {{ site.version }}.
-<hr>
-<br>
+
