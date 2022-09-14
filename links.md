@@ -2,14 +2,14 @@
 title: Helpful Links
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}[mariaadannies](https://github.com/mariaadannies/os222)</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[LOG](https://github.com/mariaadannies/os222/TXT/mylog.txt) ---
 [TARBALL](SandBox/mariaadannies.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/mariaadannies/os222)
 <br>
 <hr>
 
