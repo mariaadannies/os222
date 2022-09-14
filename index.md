@@ -5,7 +5,7 @@
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[LOG](https://github.com/mariaadannies/os222/TXT/mylog.txt) ---
 [TARBALL](SandBox/mariaadannies.tar.xz) ---
 [GITHUB]({{ site.githublink }})
 <br>
