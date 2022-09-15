@@ -16,7 +16,7 @@ permalink: LINKS/
 # LINKS
 
 1. [OS](https://os.vlsm.org/)<br>
-Kumpulan resource kelas OS.
+Kumpulan resource kelas OS. ^ ^
 
 2. [OPERATING SYSTEM EXPLAINED](https://www.guru99.com/operating-system-tutorial.html)<br>
 Apa itu operating system?
