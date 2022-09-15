@@ -7,9 +7,9 @@ permalink: LINKS/
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG](https://github.com/mariaadannies/os222/TXT/mylog.txt) ---
+[LOG]({{ site.baseurl}}{{ site.myloglink }}) ---
 [TARBALL](SandBox/mariaadannies.tar.xz) ---
-[GITHUB](https://github.com/mariaadannies/os222)
+[GITHUB]({{ site.githublink }})
 <br>
 <hr>
 
@@ -22,7 +22,7 @@ Kumpulan resource kelas OS.
 Apa itu operating system?
 
 3. [REGEX](https://www.sitepoint.com/learn-regex/)<br>
-Apa itu operating system?
+Regex.
 
 4. [GREP, SED, AWK](https://www.baeldung.com/linux/grep-sed-awk-differences/)<br>
 Perbedaan grep, sed, dan awk.
