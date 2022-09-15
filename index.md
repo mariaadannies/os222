@@ -1,3 +1,7 @@
+---
+title: Home
+permalink: /
+---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{site.author}}[mariaadannies](https://github.com/mariaadannies/os222)</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
