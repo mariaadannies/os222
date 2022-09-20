@@ -40,3 +40,5 @@ ZCZC W02 15 L12 Assignment #06
 ZCZC W02 10 L64 Helping a friend (OS related problem)
 ZCZC W02 60 L12 Assignment #01
 ZCZC W02 60 L64 Helping a friend (OS related problem) 
+ZCZC W03 40 L12 Assignment #02
+ZCZC W03 100 L02 ZOOM meetings related
