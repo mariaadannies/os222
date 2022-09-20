@@ -27,6 +27,12 @@ Regex.
 4. [GREP, SED, AWK](https://www.baeldung.com/linux/grep-sed-awk-differences/)<br>
 Perbedaan grep, sed, dan awk.
 
+4. [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)
+Menjelaskan hierarki dari struktur file pada Linux.
+
+5. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
+Penjelasan mengenai FUSE.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
