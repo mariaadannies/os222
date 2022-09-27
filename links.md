@@ -27,11 +27,17 @@ Regex.
 4. [GREP, SED, AWK](https://www.baeldung.com/linux/grep-sed-awk-differences/)<br>
 Perbedaan grep, sed, dan awk.
 
-4. [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
+4. [LINUX FILE HIERARCHY STRUCTURE](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
 Menjelaskan hierarki dari struktur file pada Linux.
 
 5. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 Penjelasan mengenai FUSE.
+
+6. [STATIC LIBRARIES VS DYNAMIC LIBRARIES](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
+Penjelasan mengenai bagaimana konsep dan dynamic libraries pada Linux.
+
+7. [MEMORY MAPPING IN LINUX](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)<br>
+Penjelasan menganai memory mapping pada Linux.
 
 <br>
 <hr>
