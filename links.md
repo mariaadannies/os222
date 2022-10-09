@@ -39,6 +39,12 @@ Penjelasan mengenai bagaimana konsep dan dynamic libraries pada Linux.
 7. [MEMORY MAPPING IN LINUX](https://ostoday.org/linux/what-is-memory-mapping-in-linux.html)<br>
 Penjelasan menganai memory mapping pada Linux.
 
+8. [LINUX VIRTUAL MEMORY](https://www.thegeekstuff.com/2012/02/linux-memory-management)<br>
+Menjelaskan konsep virtual memory dan demand paging.
+
+9. [THRASHING AND WORKING SETS](https://web.stanford.edu/~ouster/cgi-bin/cs140-winter12/lecture.php?topic=thrashing)<br>
+Catatan penting mengenai thrashing pada memori.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
