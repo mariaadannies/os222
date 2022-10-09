@@ -12,7 +12,7 @@ permalink: /
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-Hellooo, I am {{site.author}}[mariaadannies]
+Hellooo, I am {{site.author}}[mariaadannies](htttps://github.com/mariaadannies/os222)
 <br>
 <hr>
 &copy; {{site.copyright}} == {{site.author}}[mariaadannies](https://github.com/mariaadannies/os222) --- Version: {{site.version))
