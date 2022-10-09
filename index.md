@@ -14,7 +14,3 @@ permalink: /
 <hr>
 Hellooo, I am Maria from OS C!
 <br>
-<hr>
-&copy; {{ site.copyright }} == {{ site.author }}[mariaadannies](https://github.com/mariaadannies/os222) --- Version: {{site.version))
-<hr>
-<br>
