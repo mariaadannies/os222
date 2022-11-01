@@ -6,7 +6,7 @@ permalink: /
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[RANK](https://mariaadannies.github.io/os222/TXT/myrank.txt)
+[RANK](https://mariaadannies.github.io/os222/TXT/myrank.txt) ---
 [LOG](https://mariaadannies.github.io/os222/TXT/mylog.txt) ---
 [TARBALL]((https://os.vlsm.org/Log/mariaadannies.tar.bz2.txt)) ---
 [GITHUB]({{ site.githublink }})
