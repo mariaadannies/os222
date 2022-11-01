@@ -48,7 +48,7 @@ Catatan penting mengenai thrashing pada memori.
 10. [PROCESSES](https://www.tutorialspoint.com/operating_system/os_processes.htm)<br>
 Menjelaskan pengertian dan konsep dari process life cycle.  
 
-11. [UNIX/LINUX PROCESSES: C FORK() FUNCTION] (https://www.thegeekstuff.com/2012/05/c-fork-function/)<br>
+11. [UNIX LINUX PROCESSES: C FORK FUNCTION](https://www.thegeekstuff.com/2012/05/c-fork-function/)<br>
 Menjelaskan konsep dari fungsi fork(), return type, dan contohnya. Selain itu terdapat juga link tambahan yaang menjelaskan Linux processes.  
 
 <br>
