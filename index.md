@@ -6,11 +6,11 @@ permalink: /
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink}}) ---
+[RANK](https://mariaadannies.github.io/os222/TXT/myrank.txt)
+[LOG](https://mariaadannies.github.io/os222/TXT/mylog.txt) ---
 [TARBALL]((https://os.vlsm.org/Log/mariaadannies.tar.bz2.txt)) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-Hellooo, I am Maria from OS C!
+Hellooo, I am Maria Aurellia from OS C!
 <br>
