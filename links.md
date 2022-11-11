@@ -51,6 +51,12 @@ Menjelaskan pengertian dan konsep dari process life cycle.
 11. [UNIX LINUX PROCESSES: C FORK FUNCTION](https://www.thegeekstuff.com/2012/05/c-fork-function/)<br>
 Menjelaskan konsep dari fungsi fork(), return type, dan contohnya. Selain itu terdapat juga link tambahan yaang menjelaskan Linux processes.  
 
+12. [PROCESS SYNCHRONIZATION](https://www.guru99.com/process-synchronization.html)<br>  
+Menjelaskan pengertian process sycchronization dan bagaimana process synchronization berlangsung.  
+
+13. [DEADLOCK VS STARVATION IN OS](geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)<br>  
+Menjelaskan perbedaan antara deadlock dan starvation pada os.   
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
