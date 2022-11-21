@@ -36,7 +36,7 @@ ZCZC W02 15 L12 Assignment #02
 ZCZC W02 10 L13 Assignment #03
 ZCZC W02 10 L14 Assignment #04
 ZCZC W02 10 L15 Assignment #05
-ZCZC geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/W02 15 L16 Assignment #06
+ZCZC W02 15 L16 Assignment #06
 ZCZC W02 10 L64 Helping a friend (OS related problem).
 ZCZC W02 60 L11 Assignment #01
 ZCZC W02 60 L64 Helping a friend (OS related problem). 
@@ -73,3 +73,11 @@ ZCZC W07 20 L12 Assignment #02
 ZCZC W07 60 L13 Assignment #03
 ZCZC W07 30 L14 Assignment #04
 ZCZC W07 30 L11 Assignment #01
+ZCZC W08 60 L11 Assignment #01
+ZCZC W08 100 L99 face-to-face lecture.
+ZCZC W08 100 L02 ZOOM meetings related.
+ZCZC W08 10 L12 Assignment #02
+ZCZC W08 300 L13 Assignment #03
+ZCZC W08 30 L14 Assignment #04
+ZCZC W08 L64 120 Helping a friend (OS related problem)
+
