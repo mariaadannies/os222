@@ -73,6 +73,14 @@ Link untuk mengunduh file library zlib
 
 16. [PROCESS SCHEDULING IN LINUX](https://www.scaler.com/topics/operating-system/process-scheduling/)<br>
 Menjelaskan algoritma scheduling dan tipe process scheduling pada linux.
+
+WEEK 09
+17. [LINUX FROM SCRATCH](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
+Link tutorial Linux from scratch  
+
+18. [WHAT IS A BOOTLOADER? HOW DOES A BOATLOADER WORK?](https://www.makeuseof.com/what-is-a-bootloader/)<br>
+Menjelaskan secara singkat mengenai Bootloader yang berfungsi untuk membantu proses load pada sistem operasi atau runtime environment dalam menambah program pada memory dan memberi akses pada komponen komponen komputer.  
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

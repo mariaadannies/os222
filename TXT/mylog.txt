@@ -79,5 +79,12 @@ ZCZC W08 100 L02 ZOOM meetings related.
 ZCZC W08 10 L12 Assignment #02
 ZCZC W08 300 L13 Assignment #03
 ZCZC W08 30 L14 Assignment #04
-ZCZC W08 L64 120 Helping a friend (OS related problem)
+ZCZC W08 120 L64 Helping a friend (OS related problem)
+ZCZC W09 100 L99 face-to-face lecture.
+ZCZC W09 100 L99 face-to-face lecture.
+ZCZC W09 60 L11 Assignment #01
+ZCZC W09 10 L12 Assignment #02
+ZCZC W09 540 L13 Assignment #03
+ZCZC W09 L14 Assignment #04
+
 
