@@ -81,6 +81,10 @@ Link tutorial Linux from scratch
 18. [WHAT IS A BOOTLOADER? HOW DOES A BOATLOADER WORK?](https://www.makeuseof.com/what-is-a-bootloader/)<br>
 Menjelaskan secara singkat mengenai Bootloader yang berfungsi untuk membantu proses load pada sistem operasi atau runtime environment dalam menambah program pada memory dan memberi akses pada komponen komponen komputer.  
 
+WEEK 10
+19. [I/O SYSTEMS](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)<br>
+Menjelaskan konsep I/O systems pada sistem operasi.  
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
